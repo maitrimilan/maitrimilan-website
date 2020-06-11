@@ -30,8 +30,8 @@
 
 /* banner contents */
 .banner-bg {
-  background-color: #213e97;
-  background-image: url("/res/carimg_1.jpg");
+  /* background-color: #213e97; */
+  background-image: url("/maitrimilan-website/res/carimg_1.jpg");
   background-position: center center;
   background-repeat: repeat;
   background-size: cover;
