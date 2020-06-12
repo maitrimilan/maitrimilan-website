@@ -181,6 +181,63 @@ mark {
   top: 6px;
 }
 
+.btn-f {
+  background: #3b5998;
+  color: #fff;
+  box-shadow: 0 6px #868686;
+  -webkit-transition: none;
+  -moz-transition: none;
+  transition: ease-in-out box-shadow 0.15s;
+  transition: ease-in-out top 0.15s;
+}
+
+.btn-fa {
+  border-radius: 0.5em;
+}
+
+.btn-fa:hover {
+  color: #fff;
+  box-shadow: 0px 4px #868686;
+  top: 2px;
+}
+
+.btn-fa:active {
+  box-shadow: 0 4px #868686;
+  top: 6px;
+}
+
+.btn-i {
+  background: linear-gradient(
+    45deg,
+    #f09433 0%,
+    #e6683c 25%,
+    #dc2743 50%,
+    #cc2366 75%,
+    #bc1888 100%
+  );
+  color: #fff;
+  box-shadow: 0 6px #868686;
+  -webkit-transition: none;
+  -moz-transition: none;
+  transition: ease-in-out box-shadow 0.15s;
+  transition: ease-in-out top 0.15s;
+}
+
+.btn-ia {
+  border-radius: 0.5em;
+}
+
+.btn-ia:hover {
+  color: #fff;
+  box-shadow: 0px 4px #868686;
+  top: 2px;
+}
+
+.btn-ia:active {
+  box-shadow: 0 4px #868686;
+  top: 6px;
+}
+
 /* dropdowns */
 .dropdown-menu-style {
   background-color: rgba(0, 0, 0, 0.85);
